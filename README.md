@@ -2,11 +2,11 @@
 
 ## Overview
 
-In this project we've helped our friend steve by writing a VBA script to help filter and analyze some green energy stock data from 2017 and 2018 to present to his parents. After the initial script was written our challenge was to see if refactoring our code could make it run more efficient.
+In this project we've helped our friend Steve by writing a VBA script to help filter and analyze some green energy stock data from 2017 and 2018 to present to his parents. After the initial script was written our challenge was to see if refactoring our code could make it run more efficient.
 
 ## Results
 
-### initial code & analysis
+### Initial code & Analysis
 
 Our initial code used nested [for loops](https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/fornext-statement) and [conditional statements](https://docs.microsoft.com/en-us/office/vba/language/concepts/getting-started/using-ifthenelse-statements) to iterate through our data.
 
