@@ -1,4 +1,4 @@
-# stock-analysis with VBA
+# Stock-Analysis with VBA
 
 ## Overview
 
