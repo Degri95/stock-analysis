@@ -39,7 +39,8 @@ I had timers set in both of our scripts to see how long they would take to run. 
 ![original script 2017](/Resources/Old_2017.PNG) ![original script 2018](/Resources/Old_2018.PNG)
 
 
-And now our refactored codes excecution time
+
+And now our refactored code excecution time
 
 ![Refactored script 2017](/Resources/VBA_Challenge_2017.PNG) ![Refactored script 2018](/Resources/VBA_Challenge_2018.PNG)
 
