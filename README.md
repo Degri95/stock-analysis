@@ -41,7 +41,7 @@ I had timers set in both of our scripts to see how long they would take to run. 
 
 And now our refactored codes excecution time
 
-![Refactored script 2017](/Resources/VBA_Challenge_2017.PNG) ![Refactored script 2018](/Resources/Stocks_2018.PNG)
+![Refactored script 2017](/Resources/VBA_Challenge_2017.PNG) ![Refactored script 2018](/Resources/VBA_Challenge_2018.PNG)
 
 
 Looking at the comparison we see the the refactored scripts time is **substantially** faster. Our refactored code runs over 7 times faster on my computer.
