@@ -6,7 +6,7 @@ In this project we've helped our friend Steve by writing a VBA script to help fi
 
 ## Results
 
-### Initial code & Analysis
+### initial code & analysis
 
 Our initial code used nested [for loops](https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/fornext-statement) and [conditional statements](https://docs.microsoft.com/en-us/office/vba/language/concepts/getting-started/using-ifthenelse-statements) to iterate through our data.
 
@@ -20,7 +20,7 @@ Our initial code used nested [for loops](https://docs.microsoft.com/en-us/office
 
 ![2017 stocks](/Resources/Stocks_2017.PNG) ![2018 stocks](/Resources/Stocks_2018.PNG)
 
-In our data we see that our stocks were in a positive trend in 2017 with the exception of TERP. In 2018 only 2 stocks remained in the green in a seemingly bear market in the industry (ENPH and RUN) .
+In our data we see that our stocks were in a positive trend in 2017 with the exception of TERP. In 2018 only 2 stocks remained in the green in a seemingly bear market in the industry (ENPH and RUN).
 
 ### Refactoring 
 
@@ -40,29 +40,29 @@ I had timers set in both of our scripts to see how long they would take to run. 
 
 
 
-And now our refactored code excecution time
+And now our refactored codes excecution time
 
 ![Refactored script 2017](/Resources/VBA_Challenge_2017.PNG) ![Refactored script 2018](/Resources/VBA_Challenge_2018.PNG)
 
 
-Looking at the comparison we see the the refactored scripts time is **substantially** faster. Our refactored code runs over 7 times faster on my computer.
+Looking at the comparison we see the the refactored scripts time is **substantially** faster. The code now excecutes 7 times faster than the original.
 
 
 ## Summary
 
 ### Advantages of refactoring code:
 
--Refactoring code can significantly speed up your code and reduce memory usage.
--A fresh pair of eyes or another perspective on code can be very helpful.
--Finding unnecessary code and better algorithms can be done through refactoring. 
+- Refactoring code can significantly speed up your code and reduce memory usage.
+- A fresh pair of eyes or another perspective on code can be very helpful.
+- Finding unnecessary code and better algorithms can be done through refactoring. 
 
 In refactoring the VBA code we've sped up our excecution time and made it more readable. 
 
 ### Disadvantages
 
--Refactoring code can lead to bugs and errors if not precise on changes being made
--It can be very time consuming and stressful
--Refactoring may be rushed if there's a deadline.
+- Refactoring code can lead to bugs and errors if not precise on changes being made
+- It can be very time consuming and stressful
+- Refactoring may be rushed if there's a deadline.
 
 The biggest disadvantage to refactoring the VBA code would be the potential for errors. All though Through testing I was able to confirm that all of the changes were successful.
 
